@@ -106,7 +106,6 @@ With port forwarding set up, we can connect to the game using any VNC client. Co
 ## Slide 9: Live Demo
 **Title:** Live Demo
 **Content:**
-[Screenshot of Doom running with Kubernetes pods as monsters]
 - Create test deployments
 - Watch pods appear as monsters
 - Delete pods by shooting them
@@ -134,7 +133,7 @@ During this project, I encountered a few challenges. First, there were network c
 - KubeDoom provides a fun way to visualize Kubernetes resources
 - UpCloud Kubernetes Service makes deployment simple
 - Educational tool for understanding Kubernetes concepts
-- Resources available at: [GitHub repository URL]
+- Resources available at: https://github.com/rusiqe/taudoom
 
 **Speaker Notes:**
 In conclusion, KubeDoom provides a fun and engaging way to visualize and interact with Kubernetes resources. UpCloud Kubernetes Service makes deploying and managing Kubernetes applications straightforward, even unconventional ones like this. Beyond the entertainment value, this project serves as an educational tool for understanding Kubernetes concepts like pods, deployments, and reconciliation. All the resources I've used today are available in the GitHub repository linked here.
